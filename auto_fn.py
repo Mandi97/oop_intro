@@ -14,7 +14,7 @@ def start_engine(car):
         car['engine'] = True
         print('Silnik odpalony')
     else:
-        print('Silnik już byłodpalony')
+        print('Silnik już był odpalony')
 
 
 def stop_engine(car):
